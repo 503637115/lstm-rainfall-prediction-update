@@ -1,12 +1,12 @@
 # LSTM Rainfall Prediction
 
 This repository contains LSTM-based rainfall prediction models using three different training frameworks:
-- DeepSpeed
-- PyTorch Lightning
-- PyTorch Ignite
 
-Each subfolder contains a self-contained implementation.
+- DeepSpeed  
+- PyTorch Lightning  
+- PyTorch Ignite  
 
-## Authors
-- Dr. Kalinga Simant Bal
-- Sumit Kumar Shrivastava
+Each subfolder contains a self-contained implementation of the training process, model, and evaluation logic.
+
+## Author
+Sumit Kumar Shrivastava
