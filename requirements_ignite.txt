@@ -1,2 +1,7 @@
-numpy
 torch
+pandas
+numpy
+matplotlib
+scikit-learn
+ignite
+openpyxl
