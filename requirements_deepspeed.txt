@@ -1,3 +1,7 @@
-deepspeed
-numpy
 torch
+pandas
+numpy
+matplotlib
+scikit-learn
+deepseed
+openpyxl
