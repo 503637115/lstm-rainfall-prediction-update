@@ -1,9 +1,0 @@
-torch
-pandas
-numpy
-matplotlib
-scikit-learn
-deepseed
-pytorch-lightning
-ignite
-openpyxl
